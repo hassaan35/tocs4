@@ -7,4 +7,4 @@ sum_result = num1 + num2
 result = result + num3
 # Display the result
 print(result)
-
+print(sum_result)
